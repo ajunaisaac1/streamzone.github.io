@@ -1,0 +1,22 @@
+body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 20px;
+      text-align: center;
+      background-color:#3B3737;
+    }
+    h1{color: white;}
+    
+    .contact-method {
+      margin: 10px;
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    img{ height: Auto;
+    width:100%;
+    }
+    p{color: white;}
+    h1{color:#0D2DD4;
+    }
